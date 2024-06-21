@@ -1,0 +1,748 @@
+[
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {4-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Star}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Quantum}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Rubbermaid}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Duke}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Edlund}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {PROLIANT}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Hoshizaki}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Read Right/Advantus}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Beverage Air}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {2-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Maytag}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Elkay}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Royal Albert}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Jaguar Plastics}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Southbend}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Rubbermaid}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {IBM}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Kleenex}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {Single-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Crown Mats & Matting}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Scotsman}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Turbo Air}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Accutemp}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Noctua}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP Proliant}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {GE Monogram}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP Proliant}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {General Supply}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Proliant}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {n/a}",
+        "Processor Core": "Processor Core: {Single-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {IBM}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Webster}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HPE}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {8-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Focus}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Duke}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Focus}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {2-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Food Warming Equipment}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {New Age}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {IBM}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {MagiKitch'N}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {n/a}",
+        "Processor Core": "Processor Core: {Single-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {2-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {John Boos}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Southbend}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Carlisle}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Wedgwood}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Ex-Cell Metal}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Eurodib}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Krowne}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Southbend}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Focus Foodservice LLC}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Royal Industries}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Toastmaster}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Rubbermaid Commercial}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Royal Albert}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Waterford}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Vera Wang Wedgwood}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {AmRep}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Hitachi}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Hoshizaki}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Proliant}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Wedgwood}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Rubbermaid}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Anchor Hocking}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Waterford}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Duke}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Elkay}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Turbo Air}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {LYSOL Brand}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Compaq Proliant}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP Proliant}",
+        "Processor Core": "Processor Core: {4-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {John Boos}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Hoshizaki}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Rubbermaid}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {8-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Blodgett}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {5.4K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {John Boos}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Carlisle}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {n/a}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Cambro}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {15K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Montague Company}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Federal}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {APW Wyott}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {IBM}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HON}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {2-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Dell}",
+        "Rotational Speed": "Rotational Speed: {10K}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Nemco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Carlisle}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {4-core}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Krowne}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {Advance Tabco}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Processor Core": "Processor Core: {n/a}"
+    },
+    {
+        "Manufacturer": "Manufacturer: {HP}",
+        "Rotational Speed": "Rotational Speed: {7.2K}",
+        "Processor Core": "Processor Core: {n/a}"
+    }
+]
